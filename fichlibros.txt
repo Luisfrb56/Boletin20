@@ -1,0 +1,6 @@
+﻿Citas del Presidente Mao Tse-Tung,Mao Tse-Tsung,20.0,12
+El Diario de Ana Frank,Anna Frank,15.0,10
+Piense y hagase rico,Napoleon Hill,12.0,6
+El Alquimista,Paulo Coelho,11.0,19
+El Codigo da Vinci,Dan Brown,24.0,3
+Dracula,Bram,12.0,2
